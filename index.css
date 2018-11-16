@@ -1,0 +1,32 @@
+.divTable{
+	display: table;
+	width: 100%;
+}
+.divTableRow {
+	display: table-row;
+}
+
+.divTableCell {
+	display: table-cell;
+	padding: 3px 10px;
+}
+
+.divTableBody {
+	display: table-row-group;
+  border:none;
+}
+
+.approval {
+    color: #FFFFFF;
+    background-color: #006633;
+    font-size: 14px;
+    margin-left:20px;
+    
+}
+
+
+.greenAsterisk {
+    color: #22AB22;
+    margin-left:20px;
+    text-decoration: solid;
+}
